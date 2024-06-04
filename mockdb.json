@@ -1,0 +1,37 @@
+{
+    "movies": [
+        {
+            "id": 0,
+            "title": "Moon",
+            "director": "Duncan Jones",
+            "image_url":
+                "https://upload.wikimedia.org/wikipedia/en/a/af/Moon_%282009_film%29.jpg"
+        },
+        {
+            "id": 1,
+            "title": "Mute",
+            "director": "Duncan Jones",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/8/82/Mute_poster.png"
+        },
+        {
+            "id": 2,
+            "title": "Metropolis",
+            "director": "Fritz Lang",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/9/97/Metropolis_%28German_three-sheet_poster%29.jpg"
+        }
+    ],
+    "music": [
+        {
+            "id": 0,
+            "title": "Magic Carpet Ride",
+            "artist": "Steppenwolf",
+            "url": "https://www.youtube.com/embed/U4WiyxXpyZc"
+        },
+        {
+            "id": 1,
+            "title": "Got Ur Back",
+            "artist": "Sharam Jey",
+            "url": "https://www.youtube.com/embed/J4AWt5sWC_4"
+        }
+    ]
+}
